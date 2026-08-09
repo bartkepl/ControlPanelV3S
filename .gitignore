@@ -1,0 +1,21 @@
+## KiCad
+*-backups/
+_autosave-*
+*.bak
+*.bck
+*.000
+*~
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*.pro.bak
+fp-info-cache
+*.lck
+*.kicad_prl
+
+## kicad-happy analysis cache (regenerable)
+analysis/
+TODO.md
+/prod/gerbers
+pcb/archive_3d_models.log
+pcb/ibom.config.ini

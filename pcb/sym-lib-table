@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "V3S_AXP209") (type "KiCad") (uri "${KIPRJMOD}/local_lib/V3S_AXP209.kicad_sym") (options "") (descr ""))
+)

@@ -1,0 +1,105 @@
+Oznaczenie;Wartość;Footprint;Opis;Liczba
+BT1;MS621FE-FL11E;local_lib:BAT_MS621FE-FL11E;MS621FE-FL11E;1
+C1,C2,C3,C4;18p;Capacitor_SMD:C_0402_1005Metric;Unpolarized capacitor;4
+C5,C6;2.2u/100V;Capacitor_SMD:C_1206_3216Metric;KGM31HR72A225KU;2
+C7,C12,C16,C17,C20,C25,C26,C27,C34,C36,C51,C57,C62,C64,C65,C66,C81,C84,C85,C86,C88,C95,C96,C108,C109,C112;10u;Capacitor_SMD:C_0603_1608Metric,Capacitor_SMD:C_1206_3216Metric;Unpolarized capacitor;26
+C8,C47,C79,C80;4.7u;Capacitor_SMD:C_0603_1608Metric;0603X475K100CT;4
+C9,C10,C50;1n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;3
+C11,C14,C15,C122;100p;Capacitor_SMD:C_0402_1005Metric;0402N101J500CG;4
+C13;10p;Capacitor_SMD:C_0402_1005Metric;GRM1555C1H100GA01D;1
+C18,C24,C30,C31,C32,C33,C35,C37,C38,C42,C43,C53,C54,C55,C58,C60,C61,C63,C70,C72,C74,C75,C76,C77,C78,C91,C92,C93,C94,C98,C99,C100,C101,C102,C103,C104,C105,C106,C107,C110,C113,C114,C117,C118,C119,C121,C134,C135;100n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;48
+C19,C21,C22,C23,C29,C56,C59,C67,C69,C82,C89,C90,C97,C111,C115,C116,C120,C125,C126,C127,C128,C129,C130,C132,C133,C137;1u;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;26
+C28,C87;220n;Capacitor_SMD:C_0603_1608Metric;;2
+C39;4.7n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;1
+C40,C41;4.7p;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;2
+C44,C45;10n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;2
+C46,C131;2.2u;Capacitor_SMD:C_0603_1608Metric;GRM188R60J225KE19D,Unpolarized capacitor;2
+C48,C49;6.2p;Capacitor_SMD:C_0402_1005Metric;Unpolarized capacitor;2
+C52;1nF/2kV;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;1206B102K202;1
+C68;39p;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;1
+C71,C73,C83;6.8n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;3
+C123;10u / 50V;Capacitor_SMD:C_1206_3216Metric;Unpolarized capacitor;1
+C124;1n / 50V;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;1
+C136;470n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;1
+D1;STPS5L60S;Diode_SMD:D_SMC;STPS5L60S;1
+D2;MBR0530;Diode_SMD:D_SOD-123;30V 0.5A Schottky Power Rectifier Diode, SOD-123;1
+D3;BZV55C24-DC;Diode_SMD:D_MiniMELF;BZV55C24-DC;1
+D5;SMBJ33CA;Diode_SMD:D_SMB;SMBJ33CA;1
+D7,D10;SMBJ36A-13-F;Diode_SMD:D_SMB;SMBJ36A-13-F;2
+D8,D11;PMEG6030EP;Diode_SMD:D_SOD-128;60V, 3A low Vf MEGA Schottky barrier rectifier, SOD-128;2
+D9;CDSOT23-T24CAN;Package_TO_SOT_SMD:TSOT-23;CDSOT23-T24CAN;1
+D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43;STN061050BL40;Diode_SMD:D_0603_1608Metric;STN061050BL40;31
+F1;PTC 2A;Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder;SD200-08;1
+FB1,FB7;100 @ 100MHz;Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder;WLBD1608HCU101TL;2
+FB2,FB4;MFBM1V2012-601-R;Inductor_SMD:L_0805_2012Metric;MFBM1V2012-601-R;2
+FB3,FB5,FB6;100R @ 100MHz;Inductor_SMD:L_0603_1608Metric;WLBD1608HCU101TL;3
+FL1;ACT45B-510-2P-TL003;SamacSys_Parts:ACT45B1012PTL003;Common Mode Filters / Chokes, |Z|=2800 at 10MHz, L x W x T :;1
+GD1,GD2;3R090-5S;SamacSys_Parts:3R090A5S;Leiditech 3R090-5S;2
+IC1;NS2009;SamacSys_Parts:SOP50P490X112-10N;4-Wire Touch Screen Controller;1
+IC2;TPS61240DRVT;SamacSys_Parts:SON65P200X200X80-7N;Switching Voltage Regulators 5V 400mA 4MHz Step- Up DC/DC Cnvrtr;1
+IC3;ATA6561-GAQW-N;SamacSys_Parts:SOIC127P600X175-8N;MICROCHIP - ATA6561-GAQW-N - CAN TRANSCEIVER, 5MBPS, -40 TO 150DEG C;1
+IC4;MAX2674EWT+T;SamacSys_Parts:BGA6C40P2X3_83X123X69;RF Amplifier GPS/GNSS LNAs with Antenna Switch and Bias;1
+J1;MCSP-Q-08-A-SG-T_R;SamacSys_Parts:MCSPQ08ASGTR;Connector: for cards; SD Micro; push-push; SMT; gold flash;1
+J2;MEM2067-02-180-00-A;SamacSys_Parts:MEM20670218000A;GCT (GLOBAL CONNECTOR TECHNOLOGY) - MEM2067-02-180-00-A - Memory Socket, MEM2067 Series, Memory Card, 8 Contacts, Copper Alloy, Gold Plated Contacts;1
+J3;BATT;Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal;;1
+J4,J5,J10;Conn_01x02;Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical,Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Vertical;Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/),PWR_ON,TS;3
+J7,J8;Conn_Coaxial_Small;Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical;small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...);2
+J9;TF07V-40S-0.5SH_800_;SamacSys_Parts:TF07V40S05SH800;FFC & FPC Connectors Receptacle, 0.5mm pitch, 40pos;1
+J12;Conn_01x07_Socket;Connector_JST:JST_PH_S7B-PH-K_1x07_P2.00mm_Horizontal;Generic connector, single row, 01x07, script generated;1
+J13;Conn_01x05_Socket;Connector_JST:JST_PH_S5B-PH-K_1x05_P2.00mm_Horizontal;Generic connector, single row, 01x05, script generated;1
+J14;Conn_01x08_Socket;Connector_JST:JST_PH_S8B-PH-K_1x08_P2.00mm_Horizontal;Generic connector, single row, 01x08, script generated;1
+J15;Conn_01x12_Socket;Connector_JST:JST_PH_S12B-PH-K_1x12_P2.00mm_Horizontal;Generic connector, single row, 01x12, script generated;1
+L1;1uH;Inductor_SMD:L_0603_1608Metric;LQM18PN1R0MFHD;1
+L2;LQH3NPN2R2MMEL;SamacSys_Parts:LQH3NPN100MMEL;LQH3NPN_ME Series Inductor 2.2uH +/-20% 1212 (3030);1
+L3;10uH;Inductor_SMD:L_1210_3225Metric;LQH32PN100MN0L;1
+L7;8.2uH;Local_L:HCM0703;HCM0703-8R2-R;1
+L8,L10;4.7uH;Inductor_SMD:L_APV_ANR5040;NRS5040T4R7NMGK;2
+L9;2.2uH;Inductor_SMD:L_APV_ANR4018;NRS4018T2R2MDGJ;1
+Q2;BSS138;Package_TO_SOT_SMD:SOT-23;50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23;1
+R1;240R 1%;Resistor_SMD:R_0402_1005Metric;SMD0402-240R-1%;1
+R2;6k 1%;Resistor_SMD:R_0603_1608Metric;;1
+R3,R4,R29;200k 1%;Resistor_SMD:R_0603_1608Metric;;3
+R5;10k NTC;Resistor_SMD:R_0603_1608Metric;Thermistor NTC for battery;1
+R6;330k;Resistor_SMD:R_0603_1608Metric;;1
+R7,R41,R43,R54;10k;Resistor_SMD:R_0603_1608Metric;Resistor;4
+R8,R9;1k;Resistor_SMD:R_0603_1608Metric;;2
+R10,R11;2.2k;Resistor_SMD:R_0603_1608Metric;;2
+R12,R30,R48,R58,R59,R60,R61,R62,R63,R64,R65,R66,R67;47k;Resistor_SMD:R_0603_1608Metric;Resistor;13
+R13,R15;82;Resistor_SMD:R_0603_1608Metric;Resistor;2
+R14,R16;49.9;Resistor_SMD:R_0603_1608Metric;Resistor;2
+R17;10;Resistor_SMD:R_0603_1608Metric;Resistor;1
+R18,R19;75;Resistor_SMD:R_0603_1608Metric;Resistor;2
+R20,R26;150;Resistor_SMD:R_0603_1608Metric;Resistor;2
+R21,R22;59;Resistor_SMD:R_0603_1608Metric;Resistor;2
+R23;560;Resistor_SMD:R_0603_1608Metric;Resistor;1
+R24,R25,R31,R33,R57,R68,R69;100k;Resistor_SMD:R_0603_1608Metric;Resistor;7
+R27,R28;2k 1%;Resistor_SMD:R_0603_1608Metric;;2
+R32;200k;Resistor_SMD:R_0603_1608Metric;Resistor;1
+R34;162k;Resistor_SMD:R_0603_1608Metric;ERJ3EKF1623V;1
+R35;13k;Resistor_SMD:R_0603_1608Metric;;1
+R36;53.6k;Resistor_SMD:R_0603_1608Metric;;1
+R37;10.2k;Resistor_SMD:R_0603_1608Metric;;1
+R38;523k;Resistor_SMD:R_0603_1608Metric;;1
+R39;84.5k;Resistor_SMD:R_0603_1608Metric;;1
+R40;0.03;Resistor_SMD:R_1206_3216Metric;;1
+R42;62;Resistor_SMD:R_0603_1608Metric;;1
+R44,R45;10R Pulse-proof;Resistor_SMD:R_1206_3216Metric;Resistor;2
+R46,R47,R52,R55,R56;33;Resistor_SMD:R_0603_1608Metric;ERJ3EKF1623V,Resistor;5
+R49,R50;100;Resistor_SMD:R_0603_1608Metric;Resistor;2
+R51;0;Resistor_SMD:R_0603_1608Metric;Resistor;1
+R53;2k;Resistor_SMD:R_0603_1608Metric;Resistor;1
+T1;H1102NL;SamacSys_Parts:SOIC127P940X597-16N;PULSE ELECTRONICS - H1102NL - TRANSFORMER, 1:1, 1PORT, 100BASE-TX, SMT;1
+U1;MCP2518FD-xQBB;Package_DFN_QFN:DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm;CAN FD Controller with SPI Interface, up to 8 Mbps, Vdd 2.7..5.5V,  functional safety ready, VDFN-14;1
+U2;V3S;FunKey:ELQFP-128;;1
+U3;TPS54360DDA;Package_SO:TI_SO-PowerPAD-8_ThermalVias;3.5A, Step Down DC-DC Converter with Eco-mode, 4.5-60V Input Voltage, PowerSO-8;1
+U4;SY8088AAC;FunKey:SOT23-5;;1
+U5;STM32L432KCUx;Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm;STMicroelectronics Arm Cortex-M4 MCU, 256KB flash, 64KB RAM, 80 MHz, 1.71-3.6V, 26 GPIO, UFQFPN32;1
+U6;MAX-M10S;RF_GPS:ublox_MAX;GNSS Module MAX M10, VCC 1.65V to 3.6V;1
+U7;AXP209;AXP209_QFN48:AXP209-QFN48;;1
+U8;TPS61041DBV;Package_TO_SOT_SMD:SOT-23-5;Synchronous Boost Regulator, Adjustable Output up to 28V, 250 mA Switch Current Limit, SOT-23-5;1
+U9,U10;USBLC6-2SC6;Package_TO_SOT_SMD:SOT-23-6_Handsoldering;Very low capacitance ESD protection diode, 2 data-line, SOT-23-6;2
+U11;TPA6132A2RTE;Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias;25mW, Stereo, DirectPath Audio Amplifier, WQFN-16;1
+U701,U702;GAQY212GS;Package_SO:SOP-4_3.8x4.1mm_P2.54mm;Form A, Solid State Relay (Photo MOSFET) 60V, 0.075A, 10Ohm, AC/DC, SO-4;2
+Y1;3225-20M-SR;Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm;Four pin crystal, GND on pins 2 and 4;1
+Y2;CX2016FB24000D0FZZ;Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm;Four pin crystal, GND on pins 2 and 4;1
+Y3;32.768kHz;Crystal:Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm;WTL1X80739BEL;1
