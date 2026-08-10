@@ -1576,7 +1576,7 @@
 				(effects
 					(font
 						(size 1.4986 1.4986)
-						(bold yes)
+						(thickness 0.1873)
 					)
 					(justify left bottom)
 				)
@@ -1588,12 +1588,12 @@
 				(effects
 					(font
 						(size 1.4986 1.4986)
-						(bold yes)
+						(thickness 0.1873)
 					)
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1620,16 +1620,6 @@
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -5755,7 +5745,7 @@
 		(fields_autoplaced yes)
 		(uuid "4b33b7e4-cbfa-4195-b992-d90aad16dd73")
 		(property "Reference" "U4"
-			(at 54.61 144.78 0)
+			(at 54.61 146.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5772,11 +5762,11 @@
 			(effects
 				(font
 					(size 1.4986 1.4986)
-					(bold yes)
+					(thickness 0.1873)
 				)
 			)
 		)
-		(property "Footprint" "FunKey:SOT23-5"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 54.61 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -5799,17 +5789,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PARTNO" ""
 			(at 54.61 156.21 0)
 			(hide yes)
 			(show_name no)

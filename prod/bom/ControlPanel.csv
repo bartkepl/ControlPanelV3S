@@ -89,13 +89,14 @@ R49,R50;100;Resistor_SMD:R_0603_1608Metric;Resistor;2
 R51;0;Resistor_SMD:R_0603_1608Metric;Resistor;1
 R53;2k;Resistor_SMD:R_0603_1608Metric;Resistor;1
 T1;H1102NL;SamacSys_Parts:SOIC127P940X597-16N;PULSE ELECTRONICS - H1102NL - TRANSFORMER, 1:1, 1PORT, 100BASE-TX, SMT;1
+TP1,TP2,TP3,TP4,TP5,TP6,TP7,TP8,TP9,TP10,TP11,TP12,TP13,TP14,TP15,TP16;TestPoint;TestPoint:TestPoint_Pad_D1.0mm;test point;16
 U1;MCP2518FD-xQBB;Package_DFN_QFN:DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm;CAN FD Controller with SPI Interface, up to 8 Mbps, Vdd 2.7..5.5V,  functional safety ready, VDFN-14;1
-U2;V3S;FunKey:ELQFP-128;;1
+U2;V3S;Local_L:ELQFP-128;;1
 U3;TPS54360DDA;Package_SO:TI_SO-PowerPAD-8_ThermalVias;3.5A, Step Down DC-DC Converter with Eco-mode, 4.5-60V Input Voltage, PowerSO-8;1
-U4;SY8088AAC;FunKey:SOT23-5;;1
+U4;SY8088AAC;Package_TO_SOT_SMD:SOT-23-5;;1
 U5;STM32L432KCUx;Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm;STMicroelectronics Arm Cortex-M4 MCU, 256KB flash, 64KB RAM, 80 MHz, 1.71-3.6V, 26 GPIO, UFQFPN32;1
 U6;MAX-M10S;RF_GPS:ublox_MAX;GNSS Module MAX M10, VCC 1.65V to 3.6V;1
-U7;AXP209;AXP209_QFN48:AXP209-QFN48;;1
+U7;AXP209;Local_L:AXP209-QFN48;;1
 U8;TPS61041DBV;Package_TO_SOT_SMD:SOT-23-5;Synchronous Boost Regulator, Adjustable Output up to 28V, 250 mA Switch Current Limit, SOT-23-5;1
 U9,U10;USBLC6-2SC6;Package_TO_SOT_SMD:SOT-23-6_Handsoldering;Very low capacitance ESD protection diode, 2 data-line, SOT-23-6;2
 U11;TPA6132A2RTE;Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias;25mW, Stereo, DirectPath Audio Amplifier, WQFN-16;1

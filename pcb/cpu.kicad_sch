@@ -1127,7 +1127,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Local_L:ELQFP-128"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1160,10 +1160,11 @@
 					)
 				)
 			)
-			(property "ki_locked" ""
+			(property "ki_fp_filters" "*QFP128*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1400,15 +1401,6 @@
 				)
 				(text "PB"
 					(at -7.62 -30.48 0)
-					(effects
-						(font
-							(size 2.159 2.159)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "V3S-eLQFP128"
-					(at -2.54 5.08 0)
 					(effects
 						(font
 							(size 2.159 2.159)
@@ -3952,6 +3944,17 @@
 								(size 0 0)
 							)
 						)
+					)
+				)
+			)
+			(symbol "V3S_1_1"
+				(text "Allwinner V3S\nLQFP128-EP"
+					(at -2.54 5.08 0)
+					(effects
+						(font
+							(size 2.159 2.159)
+						)
+						(justify left bottom)
 					)
 				)
 			)
@@ -21514,7 +21517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FunKey:ELQFP-128"
+		(property "Footprint" "Local_L:ELQFP-128"
 			(at 153.67 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -21537,28 +21540,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 153.67 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 153.67 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PARTNO" ""
 			(at 153.67 157.48 0)
 			(hide yes)
 			(show_name no)

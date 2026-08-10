@@ -1158,7 +1158,7 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U7"
+			(property "Reference" "U"
 				(at -5.08 52.3441 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1178,7 +1178,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Allwinner:AXP209-QFN48"
+			(property "Footprint" "Local_L:AXP209-QFN48"
 				(at -2.54 -77.47 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1201,27 +1201,6 @@
 				)
 			)
 			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC" "C2997895"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6499,7 +6478,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f57fff0-6b4c-4f66-b7f6-11359045a99c")
 		(property "Reference" "U7"
-			(at 132.08 21.59 0)
+			(at 132.08 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6509,7 +6488,7 @@
 			)
 		)
 		(property "Value" "AXP209"
-			(at 132.08 24.13 0)
+			(at 132.08 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6518,7 +6497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AXP209_QFN48:AXP209-QFN48"
+		(property "Footprint" "Local_L:AXP209-QFN48"
 			(at 134.62 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -6542,28 +6521,6 @@
 		)
 		(property "Description" ""
 			(at 137.16 73.66 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C2997895"
-			(at 137.16 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PARTNO" ""
-			(at 137.16 73.66 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

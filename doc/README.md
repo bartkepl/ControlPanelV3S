@@ -24,10 +24,11 @@ Materiał referencyjny, zmieniany tylko przy zmianie sprzętu.
 
 - [V3S_CDR_STD_V1_0_20150514.pdf](V3S_CDR_STD_V1_0_20150514.pdf) — datasheet Allwinner V3S
 - [lichee_zero.pdf](lichee_zero.pdf) — dokumentacja LicheePi Zero
-- [FunKey Schematics.pdf](FunKey%20Schematics.pdf) — schemat referencyjny FunKey. **Licencja
-  CC BY-NC-SA**, nie MIT — patrz [../README.md](../README.md#license). Biblioteka footprintów
-  wywodząca się stąd (`pcb/local_lib/FunKey.pretty/`) czeka na zastąpienie własną, przed
-  upublicznieniem repo.
+
+FunKey S jest przywoływany w kilku dokumentach (m.in. `V3S_PINOUT_ROZPISKA.md`,
+`AXP209_PINOUT_ROZPISKA.md`) jako punkt odniesienia — ten sam SoC/PMIC co w tym projekcie — na
+podstawie publicznie dostępnej dokumentacji projektu FunKey, bez kopiowania jego plików źródłowych
+ani bibliotek do tego repo.
 
 ## TODO.md (poza `doc/`)
 
