@@ -22,9 +22,7 @@ fabricated yet.
   [doc/README.md](doc/README.md), which says which document is the source of truth for what.
 - **`media/`** - 3D renders of the board, generated from the KiCad project.
 - **`prod/`** - fabrication outputs (BOM, interactive BOM, schematic/PCB PDFs).
-- **`analysis/`** - raw output of automated KiCad design-review runs (ERC/DRC/SPICE/EMC), not
-  version-controlled - regenerable, kept locally as a reference for past findings.
-- **`TODO.md`** - open items from the latest design review (see `doc/DESIGN_REVIEW.md`).
+
 
 ## Firmware
 
@@ -34,7 +32,6 @@ navigation/map stack) lives in a separate, currently private companion repo.
 ## License
 
 MIT for original work - see [LICENSE](LICENSE). All footprints live under `pcb/local_lib/` and
-were either authored locally or sourced from SamacSys (`BAT_MS621FE-FL11E.kicad_mod`); none
-originate from the FunKey project. FunKey S is referenced in `doc/` only as a comparison point
-for the Allwinner V3S reference design (e.g. power-tree, boot ROM behavior), not as a source of
-copied material.
+were either authored locally or sourced from SamacSys (`BAT_MS621FE-FL11E.kicad_mod`); 
+FunKey S is referenced in `doc/` as a comparison point for the Allwinner V3S reference design 
+(e.g. power-tree, boot ROM behavior).
