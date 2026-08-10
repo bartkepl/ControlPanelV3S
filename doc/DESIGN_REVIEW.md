@@ -596,7 +596,9 @@ jest małe.
 
 ## Pozostałe działania
 
-Lista do odhaczania: [`TODO.md`](../TODO.md) w katalogu głównym projektu.
+Lista do odhaczania była w `TODO.md` w katalogu głównym — plik został usunięty przy porządkach
+poprzedzających podział repozytorium (2026-08-09), więc odnośnik prowadził w pustkę. Punkty z tej
+sekcji są kompletne same w sobie i wystarczają jako lista kontrolna.
 
 ---
 
