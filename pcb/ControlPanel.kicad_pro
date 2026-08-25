@@ -76,7 +76,48 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_issues|136612500|109580000|c6a79f5b-c700-4ee1-97f9-c11006d6964f|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|110250000|54550000|ec87bb4f-a45f-4f4c-92fb-525062c55ae7|cec2177b-82a5-44ad-8599-2ee6e84c33c6",
+          "Złącze krawędziowe, może tak być"
+        ],
+        [
+          "silk_edge_clearance|112810000|54550000|ec87bb4f-a45f-4f4c-92fb-525062c55ae7|b61ae3c3-7639-41a1-88f0-9dc48150ce52",
+          "Złącze krawędziowe, może tak być"
+        ],
+        [
+          "silk_edge_clearance|119810000|54550000|ec87bb4f-a45f-4f4c-92fb-525062c55ae7|e92bbf99-e95a-4b4c-9869-972c281b7051",
+          "Złącze krawędziowe, może tak być"
+        ],
+        [
+          "silk_edge_clearance|120610000|54550000|ec87bb4f-a45f-4f4c-92fb-525062c55ae7|949b880b-6573-4364-9c4d-b4688d08e2e7",
+          "Złącze krawędziowe, może tak być"
+        ],
+        [
+          "silk_edge_clearance|121110000|54550000|ec87bb4f-a45f-4f4c-92fb-525062c55ae7|ecb740d1-5a17-4bda-af41-2f09fa841b3a",
+          "Złącze krawędziowe, może tak być"
+        ],
+        [
+          "silk_edge_clearance|122370000|54550000|ec87bb4f-a45f-4f4c-92fb-525062c55ae7|534dbad3-2049-4704-b4ef-dfcc8cc1cb17",
+          "Złącze krawędziowe, może tak być"
+        ],
+        [
+          "silk_edge_clearance|122370000|54550000|ec87bb4f-a45f-4f4c-92fb-525062c55ae7|606b5421-76cf-470a-8364-9e81c8f9cad1",
+          "Złącze krawędziowe, może tak być"
+        ],
+        [
+          "text_height|143925000|88125000|d4d9416b-d0af-48c8-be9c-dd32e1f7f6a0|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "via_dangling|112770000|123480000|cccebf2c-8df1-4e21-8c31-2c940177e92c|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -94,7 +135,7 @@
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
-        "footprint_filters_mismatch": "warning",
+        "footprint_filters_mismatch": "ignore",
         "footprint_symbol_field_mismatch": "warning",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
@@ -107,7 +148,7 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
