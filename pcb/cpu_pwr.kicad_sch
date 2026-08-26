@@ -13363,7 +13363,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "200k 1%"
+		(property "Value" "200k"
 			(at 174.498 127.4322 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -13936,7 +13936,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "200k 1%"
+		(property "Value" "200k"
 			(at 161.29 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18902,7 +18902,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "200k 1%"
+		(property "Value" "200k"
 			(at 363.22 118.1099 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -78,6 +78,110 @@
       ],
       "drc_exclusions": [
         [
+          "hole_clearance|102000000|91600000|484df625-9cff-43c2-8f0a-c848997cd668|31c136cf-43d6-4979-ae54-21545c934a12",
+          ""
+        ],
+        [
+          "hole_clearance|102750000|93650000|ae2d4a5a-5487-4e7b-8286-6910b9a73c04|06d0a170-20f5-4c05-8f03-e0d2cd2186a4",
+          ""
+        ],
+        [
+          "hole_clearance|112770000|123480000|cccebf2c-8df1-4e21-8c31-2c940177e92c|559f2ede-294a-4ede-8249-f73886bb29c6",
+          ""
+        ],
+        [
+          "hole_clearance|116500000|102250000|ff0b4c3f-b407-4b8f-94f8-1b477b2f0a08|386b49bf-78d0-4789-9046-d6e8e4d001a7",
+          ""
+        ],
+        [
+          "hole_clearance|118100000|90800000|83d86c66-33b1-4301-ad1d-49e38c473407|3bb5a119-af73-43d6-bddf-9c0847b32eed",
+          ""
+        ],
+        [
+          "hole_clearance|120000000|91600000|8af56b9a-c71b-436f-a2c7-d4c61a7d8707|30c6e565-a4ea-474a-b1d7-990e8e99e53b",
+          ""
+        ],
+        [
+          "hole_clearance|125700000|89300000|6a08f4b6-e7be-4613-9893-67ce8b1fee0f|fa3a6d1b-8ed8-49e6-965c-34773b97c60a",
+          ""
+        ],
+        [
+          "hole_clearance|127600000|95500000|ede85932-b32a-4348-ba12-1f7acedc33fe|9e6971dc-c022-4da8-bdf8-d26f4e475b3f",
+          ""
+        ],
+        [
+          "hole_clearance|143890000|97710000|1e922d73-6dbd-4922-a957-b559864cfef1|c06f9657-89bb-41dc-bd83-f849de819563",
+          ""
+        ],
+        [
+          "hole_clearance|143905000|99735000|671ce19a-8695-49f2-afa2-e3bdc7d46344|35e740cd-4f4e-4af4-ac1c-61f6198bead9",
+          ""
+        ],
+        [
+          "hole_clearance|168350000|109050000|5cf9727a-205d-4d67-a3ef-bfb20bafea47|12ee1f8a-2b42-4869-bac0-fee0ec7cf7e4",
+          ""
+        ],
+        [
+          "hole_clearance|170630000|120150500|562b2c1c-a1b6-44de-98c0-596b6fc837bf|94a527f8-a383-44cb-8af8-6d8e121bd934",
+          ""
+        ],
+        [
+          "hole_clearance|170650500|120150500|94a527f8-a383-44cb-8af8-6d8e121bd934|3a2bb18c-e648-4fc3-bca9-b2a32cb089bd",
+          ""
+        ],
+        [
+          "hole_clearance|170795000|120150500|54d4bbbd-5dd2-461c-bd5d-d3eb6c598d35|94a527f8-a383-44cb-8af8-6d8e121bd934",
+          ""
+        ],
+        [
+          "hole_clearance|171150500|121150500|682a5867-fb74-4d40-ae2e-5377ae965c38|985738b4-c9f8-4400-8f4a-f7458ef19aca",
+          ""
+        ],
+        [
+          "hole_clearance|171150500|121150500|985738b4-c9f8-4400-8f4a-f7458ef19aca|3a2bb18c-e648-4fc3-bca9-b2a32cb089bd",
+          ""
+        ],
+        [
+          "hole_clearance|187150500|121150500|f80ee988-82dc-4ad3-a278-4abef47b079e|37eec745-fdc2-43ce-a91d-53204a9bd2eb",
+          ""
+        ],
+        [
+          "hole_clearance|188150500|121150500|6674e153-06a7-4da6-b112-92af8f6f68d0|37eec745-fdc2-43ce-a91d-53204a9bd2eb",
+          ""
+        ],
+        [
+          "hole_clearance|94850000|85619761|645eaaf2-7228-4b46-bee1-3ed8d0f30d09|4c010b64-888f-4efd-9593-5314dec3d0fa",
+          ""
+        ],
+        [
+          "hole_clearance|94850000|85619761|b06e4839-2305-4890-8934-2429ad1063c8|645eaaf2-7228-4b46-bee1-3ed8d0f30d09",
+          ""
+        ],
+        [
+          "hole_clearance|94860000|86869761|08504a2f-3595-4487-8294-f70c6dc71d22|88c2f730-41cc-479c-b84a-51b88a070eff",
+          ""
+        ],
+        [
+          "hole_clearance|94860000|86869761|88c2f730-41cc-479c-b84a-51b88a070eff|4c010b64-888f-4efd-9593-5314dec3d0fa",
+          ""
+        ],
+        [
+          "hole_clearance|96050000|88019761|06fdb4ab-9483-4a93-859f-a9819dbf8048|59bad087-e8d7-4e4a-984a-5e629fec5c15",
+          ""
+        ],
+        [
+          "hole_clearance|96050000|88019761|59bad087-e8d7-4e4a-984a-5e629fec5c15|4c010b64-888f-4efd-9593-5314dec3d0fa",
+          ""
+        ],
+        [
+          "hole_clearance|97260000|86849761|0151b7d9-9791-4c06-b084-ea81be7c88d0|6babfbfe-c347-406b-88bd-c73d12c2c7c8",
+          ""
+        ],
+        [
+          "hole_clearance|97260000|86849761|6babfbfe-c347-406b-88bd-c73d12c2c7c8|4c010b64-888f-4efd-9593-5314dec3d0fa",
+          ""
+        ],
+        [
           "lib_footprint_issues|136612500|109580000|c6a79f5b-c700-4ee1-97f9-c11006d6964f|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -646,7 +750,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "..\\doc\\ControlPanel.csv",
+    "bom_export_filename": "..\\BOM\\${PROJECTNAME}.csv",
     "bom_fmt_presets": [
       {
         "field_delimiter": ";",
@@ -826,14 +930,20 @@
           "label": "Sim.Type",
           "name": "Sim.Type",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "LCSC"
+      "sort_asc": true,
+      "sort_field": "Reference"
     },
     "bus_aliases": {
       "LCD": [
