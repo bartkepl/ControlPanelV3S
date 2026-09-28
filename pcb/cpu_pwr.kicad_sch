@@ -6721,7 +6721,7 @@
 		(dnp no)
 		(uuid "0ff7a90c-9ed4-47ae-b2a2-64f6a48d4e7e")
 		(property "Reference" "C10"
-			(at 90.17 76.2 90)
+			(at 91.186 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
