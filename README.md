@@ -5,6 +5,14 @@ part of the [CANbusSensors](../) family of MPCC/MPSWP sensor-node projects. Two 
 on one PCB: a handheld CAN-bus terminal and a VoIP endpoint. The next hardware iteration (Allwinner
 T113-S3/4) will be a separate repo.
 
+## Status: ready for prototype order
+
+- Schematic and PCB layout done (4-layer, 120 × 75 mm), production files generated.
+- Design review completed; DRC/ERC clean (remaining items reviewed and excluded as by-design).
+- Hand assembly (2 fiducials on F.Cu for stencil alignment); crystal load caps C3/C4 are placeholders to be tuned at bring-up.
+
+Production outputs: [schematic PDF](prod/sch/ControlPanel.pdf) · [PCB PDF](prod/pcb/ControlPanel.pdf) · [interactive BOM](prod/ibom/ControlPanel_ibom.html) · [gerbers](prod/ControlPanelV3S.zip)
+
 ## Renders
 
 3D renders straight out of KiCad (`pcb/gen_media.kicad_jobset`), not photos — no boards have been
@@ -21,7 +29,7 @@ fabricated yet.
 - **`doc/`** - hardware design decisions and reference material. Start with
   [doc/README.md](doc/README.md), which says which document is the source of truth for what.
 - **`media/`** - 3D renders of the board, generated from the KiCad project.
-- **`prod/`** - fabrication outputs (BOM, interactive BOM, schematic/PCB PDFs).
+- **`prod/`** - fabrication outputs (gerber + drill zip, BOM, interactive BOM, schematic/PCB PDFs).
 
 
 ## Firmware
