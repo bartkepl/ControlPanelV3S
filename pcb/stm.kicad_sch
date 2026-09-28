@@ -3413,6 +3413,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 144.78 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "26"
 			(uuid "793c5603-e166-4cd7-b4e4-12aa5919f709")
 		)
@@ -3687,6 +3698,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 130.81 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1283d0e9-5260-41c5-97ca-849d09f5c24a")
 		)
@@ -3791,6 +3813,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 114.3 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "aa73a3f1-2be8-43b2-83a3-f00c3803004c")
 		)
@@ -3875,6 +3908,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 113.03 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 113.03 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -4135,6 +4179,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 163.83 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b542e4d2-ff87-435a-aaeb-21e647f143a8")
 		)
@@ -4306,6 +4361,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 119.38 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 119.38 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -4521,6 +4587,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 147.32 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7bb108e4-5b19-4766-8209-7f1f3aef4914")
 		)
@@ -4615,6 +4692,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 157.48 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 157.48 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -4871,6 +4959,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 123.19 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e5336247-082e-4045-a26e-784fb454e1e6")
 		)
@@ -4951,6 +5050,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 100.33 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 100.33 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -5042,6 +5152,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 80.01 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 80.01 40.64 0)
 			(hide yes)
 			(show_name no)

@@ -3241,7 +3241,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ3EKF1623V"
+		(property "Manufacturer_Part_Number" ""
 			(at 67.31 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -3264,6 +3264,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 67.31 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 67.31 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -3465,6 +3476,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 63.5 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cadbf86f-9635-457b-bbbc-b60534ede1ab")
 		)
@@ -3629,6 +3651,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 73.66 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "MP1"
 			(uuid "79b3f6a2-69b6-42de-842b-b3135ca6a4fe")
 		)
@@ -3774,6 +3807,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 33.02 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "78713f3f-5efc-47a8-b1a1-c4deacb9004e")
 		)
@@ -3887,6 +3931,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 118.11 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "275b989e-00cd-419f-a8d8-962cf00d2ab8")
 		)
@@ -3990,6 +4045,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 123.19 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 123.19 38.1 90)
 			(hide yes)
 			(show_name no)
@@ -4269,6 +4335,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 55.88 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f7ce10a9-76d0-4d7d-b98e-78d300a98e55")
 		)
@@ -4460,6 +4537,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 59.69 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ee71e320-5027-406a-b4da-ae9e648d47c5")
 		)
@@ -4553,6 +4641,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 68.58 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b93f6d77-f991-4968-a85b-4c0c10772958")
 		)
@@ -4636,6 +4735,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 76.2 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 76.2 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -4751,6 +4861,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 33.02 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 33.02 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -4932,6 +5053,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 64.77 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a598730a-95b7-4213-8c9b-0357982c1b55")
 		)
@@ -5012,7 +5144,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ3EKF1623V"
+		(property "Manufacturer_Part_Number" ""
 			(at 64.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -5035,6 +5167,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 64.77 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 64.77 110.49 90)
 			(hide yes)
 			(show_name no)
@@ -5226,6 +5369,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 58.42 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 58.42 92.71 90)
 			(hide yes)
 			(show_name no)
@@ -5641,6 +5795,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 69.85 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4b4731f6-1006-4786-b9ed-b5a15900151f")
 		)
@@ -5832,6 +5997,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 54.61 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ed1e193f-c474-475c-a1b1-308eef87866a")
 		)
@@ -5935,6 +6111,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 57.15 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 57.15 38.1 90)
 			(hide yes)
 			(show_name no)
@@ -6106,6 +6293,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 60.96 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 60.96 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -6307,6 +6505,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 60.96 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6549905a-d7df-4f19-be77-92b6e697166d")
 		)
@@ -6420,6 +6629,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 120.65 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7d997ba1-e313-465e-8d25-6ef04759f2b9")
 		)
@@ -6503,6 +6723,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 72.39 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 72.39 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -6680,6 +6911,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 73.66 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 73.66 100.33 0)
 			(hide yes)
 			(show_name no)

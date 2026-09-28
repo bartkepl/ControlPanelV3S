@@ -2239,6 +2239,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 66.04 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "afce47d5-d699-4d53-8de6-4e475a7673d2")
 		)
@@ -2389,6 +2400,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 91.44 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e4d182f9-fc56-4f3c-9a24-7ff58b113108")
 		)
@@ -2505,6 +2527,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 101.6 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 101.6 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -2719,6 +2752,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 40.64 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bfc30f54-55b3-41d9-b159-95dff1fff8b8")
 		)
@@ -2811,6 +2855,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 91.44 72.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 91.44 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -3103,6 +3158,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 76.2 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "342f4032-24c1-464e-a97d-686380c99fa3")
 		)
@@ -3296,6 +3362,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 34.29 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b683427c-8340-4e2e-8ec4-eca7927194f7")
 		)
@@ -3388,6 +3465,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 163.83 74.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 163.83 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -3500,6 +3588,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 113.03 74.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fd85b2ce-a3c1-41c4-aa29-c87f88b2777d")
 		)
@@ -3593,6 +3692,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 172.72 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 172.72 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -3845,6 +3955,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 119.38 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "B2"
 			(uuid "37de11c0-9215-4a40-a2b1-7dcc115a67e5")
 		)
@@ -3961,6 +4082,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 102.87 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9598b1a0-0af1-45f9-b5dd-6d1e7849551b")
 		)
@@ -4055,6 +4187,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 107.95 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 107.95 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -4181,6 +4324,17 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 52.07 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 52.07 48.26 0)
 			(hide yes)
 			(show_name no)

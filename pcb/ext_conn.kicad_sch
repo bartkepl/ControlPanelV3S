@@ -6105,6 +6105,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 111.76 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "89b96f00-3fda-409b-85a8-1520d1dff6df")
 		)
@@ -6203,6 +6214,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 101.6 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8ad898ae-5130-425b-bf97-17079eea57b6")
 		)
@@ -6291,6 +6313,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 181.61 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 181.61 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -6427,6 +6460,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 114.3 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e7c1fb3b-4298-485b-8c30-c91754dbff4d")
 		)
@@ -6516,6 +6560,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 120.65 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 120.65 127 0)
 			(hide yes)
 			(show_name no)
@@ -6869,6 +6924,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 120.65 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1d6d7c5e-848f-4fdb-9162-27520fbc1c47")
 		)
@@ -7040,6 +7106,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 218.44 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "de909453-e319-48d1-ba5c-94c7eed3961a")
 		)
@@ -7141,6 +7218,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 120.65 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 120.65 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -7314,6 +7402,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 96.52 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 96.52 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -7584,6 +7683,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 133.35 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "8b08a18a-02bc-432b-a9d3-aeef6b211384")
 		)
@@ -7678,6 +7788,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 91.44 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 91.44 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -7797,6 +7918,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 87.63 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9d173cdc-49aa-4a38-8465-9a3b6a5777b4")
 		)
@@ -7892,6 +8024,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 146.05 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 146.05 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -8162,6 +8305,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 109.22 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "adb1a500-0ee5-4da7-b058-f522f2e1a391")
 		)
@@ -8245,6 +8399,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 66.04 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 66.04 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -8353,6 +8518,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 71.12 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d98982ce-ba4d-4e09-a5fb-7d8b11b739c1")
 		)
@@ -8439,6 +8615,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 166.37 63.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 166.37 63.5 90)
 			(hide yes)
 			(show_name no)
@@ -8547,6 +8734,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 86.36 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3a85848a-fa42-471c-9006-bbbd15a146df")
 		)
@@ -8632,6 +8830,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 166.37 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 166.37 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -8773,6 +8982,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 134.62 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8d4eb24b-7c19-4f89-b7a7-947acbc03ef1")
 		)
@@ -8856,6 +9076,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 76.2 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 76.2 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -8963,6 +9194,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 199.39 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c7199b2a-586f-4cc8-93d8-06ba0e466e78")
 		)
@@ -9046,6 +9288,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 106.68 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 106.68 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -9144,6 +9397,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 116.84 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 116.84 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -9263,6 +9527,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 87.63 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4d2062bb-af51-473f-8a67-f5266f46a90e")
 		)
@@ -9349,6 +9624,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 129.54 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 129.54 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -9487,6 +9773,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 81.28 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d695f403-c56d-47fe-accc-5427a0594c0f")
 		)
@@ -9596,6 +9893,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 115.57 72.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "c2597bf9-5c8b-4936-8f19-579bae2bfa4e")
 		)
@@ -9691,6 +9999,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 146.05 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 146.05 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9905,6 +10224,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 158.75 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d944e7b2-d06b-4aac-a226-d334c02aea76")
 		)
@@ -10078,6 +10408,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 43.18 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9f6f3016-3f7a-42d1-8fd4-b452cdf9dad6")
 		)
@@ -10186,6 +10527,17 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 96.52 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 96.52 39.37 90)
 			(hide yes)
 			(show_name no)
