@@ -30,9 +30,8 @@ D8,D11;PMEG6030EP;Diode_SMD:D_SOD-128;60V, 3A low Vf MEGA Schottky barrier recti
 D9;CDSOT23-T24CAN;Package_TO_SOT_SMD:TSOT-23;CDSOT23-T24CAN;1
 D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43;STN061050BL40;Diode_SMD:D_0603_1608Metric;STN061050BL40;31
 F1;PTC 2A;Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder;SD200-08;1
-FB1,FB7;100 @ 100MHz;Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder;WLBD1608HCU101TL;2
+FB1,FB3,FB5,FB6,FB7;100 @ 100MHz;Inductor_SMD:L_0603_1608Metric,Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder;WLBD1608HCU101TL;5
 FB2,FB4;MFBM1V2012-601-R;Inductor_SMD:L_0805_2012Metric;MFBM1V2012-601-R;2
-FB3,FB5,FB6;100R @ 100MHz;Inductor_SMD:L_0603_1608Metric;WLBD1608HCU101TL;3
 FL1;ACT45B-510-2P-TL003;SamacSys_Parts:ACT45B1012PTL003;Common Mode Filters / Chokes, |Z|=2800 at 10MHz, L x W x T :;1
 GD1,GD2;3R090-5S;SamacSys_Parts:3R090A5S;Leiditech 3R090-5S;2
 IC1;NS2009;SamacSys_Parts:SOP50P490X112-10N;4-Wire Touch Screen Controller;1
@@ -42,7 +41,6 @@ IC4;MAX2674EWT+T;SamacSys_Parts:BGA6C40P2X3_83X123X69;RF Amplifier GPS/GNSS LNAs
 J1;MCSP-Q-08-A-SG-T_R;SamacSys_Parts:MCSPQ08ASGTR;Connector: for cards; SD Micro; push-push; SMT; gold flash;1
 J2;MEM2067-02-180-00-A;SamacSys_Parts:MEM20670218000A;GCT (GLOBAL CONNECTOR TECHNOLOGY) - MEM2067-02-180-00-A - Memory Socket, MEM2067 Series, Memory Card, 8 Contacts, Copper Alloy, Gold Plated Contacts;1
 J3;BATT;Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal;;1
-J4,J5,J10;Conn_01x02;Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical,Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Vertical;Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/),PWR_ON,TS;3
 J7,J8;Conn_Coaxial_Small;Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical;small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...);2
 J9;TF07V-40S-0.5SH_800_;SamacSys_Parts:TF07V40S05SH800;FFC & FPC Connectors Receptacle, 0.5mm pitch, 40pos;1
 J12;Conn_01x07_Socket;Connector_JST:JST_PH_S7B-PH-K_1x07_P2.00mm_Horizontal;Generic connector, single row, 01x07, script generated;1

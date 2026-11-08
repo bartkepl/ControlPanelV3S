@@ -4499,7 +4499,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100R @ 100MHz"
+		(property "Value" "100 @ 100MHz"
 			(at 149.86 43.218 0)
 			(show_name no)
 			(do_not_autoplace no)

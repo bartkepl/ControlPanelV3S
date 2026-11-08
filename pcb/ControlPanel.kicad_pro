@@ -323,6 +323,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.6,
           "td_maxheight": 2.0,
@@ -334,6 +335,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -345,6 +347,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -661,6 +664,7 @@
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
+      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
@@ -721,8 +725,8 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
-    "netclass_assignments": null,
+    "net_colors": {},
+    "netclass_assignments": {},
     "netclass_patterns": [
       {
         "netclass": "Default",
@@ -740,6 +744,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -803,7 +808,7 @@
           "group_by": true,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
@@ -1027,7 +1032,7 @@
         "uuid": "85464edd-bb75-4dab-9c1c-d48879895dfc"
       }
     ],
-    "used_designators": "#GND35,#GND37-38,#GND40,#GND42-46,#GND48,#GND51-52,#GND54,#GND57,#GND61-64,#GND66-67,#GND69-71,#GND73,#GND75,#FLG1-13,#FLG107-109,R1-69,IC1-4,#+1V1,#+1V85,#+1V2514,U1-12,U701-702,C1-137,#PWR1-14,#PWR16-189,T1,Q2,Y1-3,#+3V4-5,#+3V318-319,#+3V321,#+3V326,#+3V3_AO2,#+3V3_AO4,#+VBAT1,FID1-2,#+VIN1,#+VOUT2-8,#+VUSB2,H1-4,D1-43,J1-21,L1-10,S13-14,TP1-16,TP20-23,FB1-7,F1,FL1,GD1-2,BT1",
+    "used_designators": "#+1V1,#+1V85,#+1V2514,#+3V4-5,#+3V318-319,#+3V321,#+3V326,#+3V3_AO2,#+3V3_AO4,#+VBAT1,#+VIN1,#+VOUT2-8,#+VUSB2,#FLG1-13,#FLG107-109,#GND35,#GND37-38,#GND40,#GND42-46,#GND48,#GND51-52,#GND54,#GND57,#GND61-64,#GND66-67,#GND69-71,#GND73,#GND75,#PWR1-14,#PWR16-189,BT1,C1-137,D1-43,F1,FB1-7,FID1-2,FL1,GD1-2,H1-4,IC1-4,J1-21,L1-10,Q2,R1-69,S13-14,T1,TP1-16,TP20-23,U1-12,U701-702,Y1-3",
     "variants": [
       {
         "description": "Portable terminal with CAN Bus functionality",
@@ -1043,10 +1048,6 @@
     [
       "85464edd-bb75-4dab-9c1c-d48879895dfc",
       "ControlPanel"
-    ],
-    [
-      "d08be4ee-dbe0-4f89-8c69-937900197fa7",
-      "CPU_PWR"
     ],
     [
       "1593429d-c503-4c13-a0b9-1dbb56a34be1",
@@ -1087,6 +1088,10 @@
     [
       "8cdae089-1c03-46e6-a806-c32adfa1db17",
       "AUDIO"
+    ],
+    [
+      "d08be4ee-dbe0-4f89-8c69-937900197fa7",
+      "CPU_PWR"
     ]
   ],
   "text_variables": {},

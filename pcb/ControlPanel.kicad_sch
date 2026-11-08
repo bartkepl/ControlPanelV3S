@@ -2769,6 +2769,10 @@
 				(path "/85464edd-bb75-4dab-9c1c-d48879895dfc"
 					(reference "TP3")
 					(unit 1)
+					(variant
+						(name "TerminalVoIP")
+						(in_bom no)
+					)
 				)
 			)
 		)
@@ -3047,6 +3051,10 @@
 				(path "/85464edd-bb75-4dab-9c1c-d48879895dfc"
 					(reference "TP4")
 					(unit 1)
+					(variant
+						(name "TerminalVoIP")
+						(in_bom no)
+					)
 				)
 			)
 		)
@@ -3339,6 +3347,10 @@
 				(path "/85464edd-bb75-4dab-9c1c-d48879895dfc"
 					(reference "TP1")
 					(unit 1)
+					(variant
+						(name "TerminalVoIP")
+						(in_bom no)
+					)
 				)
 			)
 		)
@@ -3611,6 +3623,10 @@
 				(path "/85464edd-bb75-4dab-9c1c-d48879895dfc"
 					(reference "TP2")
 					(unit 1)
+					(variant
+						(name "TerminalVoIP")
+						(in_bom no)
+					)
 				)
 			)
 		)
@@ -4670,6 +4686,11 @@
 			(project "ControlPanel"
 				(path "/85464edd-bb75-4dab-9c1c-d48879895dfc"
 					(page "7")
+					(variant
+						(name "TerminalVoIP")
+						(dnp yes)
+						(in_bom no)
+					)
 				)
 			)
 		)
@@ -5244,7 +5265,7 @@
 		(instances
 			(project "ControlPanel"
 				(path "/85464edd-bb75-4dab-9c1c-d48879895dfc"
-					(page "1")
+					(page "12")
 				)
 			)
 		)

@@ -20470,10 +20470,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d8de47b9-9c5d-44a1-a6a6-e53cd4614bf9")
 		(property "Reference" "J10"

@@ -6310,7 +6310,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5dde6fcc-1b55-4faa-ae3f-926a010c6cad")
 		(property "Reference" "IC2"
@@ -6489,7 +6489,6 @@
 					(unit 1)
 					(variant
 						(name "TerminalVoIP")
-						(dnp yes)
 						(in_bom no)
 					)
 				)
