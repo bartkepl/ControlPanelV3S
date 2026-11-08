@@ -4625,18 +4625,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
-			(at 67.31 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CL0603FN62RP"
 			(at 67.31 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -4660,6 +4649,28 @@
 		)
 		(property "Tolerance" ""
 			(at 67.31 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "CHANGLONG"
+			(at 67.31 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C48391837"
+			(at 67.31 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4826,7 +4837,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TCC0603X7R104K500CT"
 			(at 35.56 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -4848,7 +4859,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+		(property "Tolerance" ""
 			(at 35.56 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -4859,7 +4870,18 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Manufacturer" "CCTC"
+			(at 35.56 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282519"
 			(at 35.56 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -4952,7 +4974,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TPS61041DBVR"
 			(at 54.61 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -4976,6 +4998,39 @@
 		)
 		(property "Tolerance" ""
 			(at 54.61 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TI"
+			(at 49.53 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C9846"
+			(at 49.53 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "TPS61041DBVR"
+			(at 49.53 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5151,18 +5206,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
-			(at 45.72 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "RMS06FT1002"
 			(at 45.72 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -5186,6 +5230,28 @@
 		)
 		(property "Tolerance" ""
 			(at 45.72 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TA-I Tech"
+			(at 45.72 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C209013"
+			(at 45.72 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5353,7 +5419,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "LQH32PN100MN0L"
 			(at 54.61 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -5377,6 +5443,39 @@
 		)
 		(property "Tolerance" ""
 			(at 54.61 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "muRata"
+			(at 54.61 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C98020"
+			(at 54.61 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "LQH32PN100MN0L"
+			(at 54.61 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5465,7 +5564,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 29.21 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -5488,6 +5587,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 29.21 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 29.21 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96446"
+			(at 29.21 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A106MA8NRNC-0"
 			(at 29.21 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -5734,7 +5866,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "MBR0530T1G"
 			(at 68.58 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -5757,6 +5889,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 68.58 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FUXINSEMI"
+			(at 68.58 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7436545"
+			(at 68.58 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "MBR0530T1G"
 			(at 68.58 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -5849,7 +6014,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TCC0603X7R104K500CT"
 			(at 73.66 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -5871,7 +6036,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+		(property "Tolerance" ""
 			(at 73.66 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -5882,7 +6047,18 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Manufacturer" "CCTC"
+			(at 73.66 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282519"
 			(at 73.66 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -5988,78 +6164,6 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "Hirose"
-			(at 109.22 516.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "TF07V-40S-0.5SH(800)"
-			(at 109.22 616.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "798-TF07V40S0.5SH800"
-			(at 109.22 716.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/TF07V-40S-0.5SH800?qs=QpmGXVUTftHzg1WlnR7uFA%3D%3D"
-			(at 109.22 816.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 109.22 916.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 109.22 1016.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "PARTNO" ""
 			(at 130.81 21.59 0)
 			(hide yes)
@@ -6080,6 +6184,54 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "TF07V-40S-0.5SH(800)"
+			(at 109.22 216.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer" "HIROSE"
+			(at 109.22 216.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "TME" "TF07V-40S-05SH-800"
+			(at 109.22 216.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser" "798-TF07V40S0.5SH800"
+			(at 109.22 216.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
 		)
 		(pin "28"
@@ -6284,7 +6436,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TCC0603X7R104K500CT"
 			(at 86.36 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6306,7 +6458,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+		(property "Tolerance" ""
 			(at 86.36 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6317,7 +6469,18 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Manufacturer" "CCTC"
+			(at 86.36 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282519"
 			(at 86.36 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6409,7 +6572,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "BZV55C24"
 			(at 86.36 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -6433,6 +6596,39 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YONGYUTAI"
+			(at 86.36 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C53308906"
+			(at 86.36 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "BZV55C24-DC"
+			(at 86.36 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6783,55 +6979,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "NSIWAY"
-			(at 55.88 557.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "NS2009"
-			(at 55.88 657.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 55.88 757.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 55.88 857.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "NS2009"
 			(at 29.21 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -6862,6 +7010,30 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Manufacturer" "Shenzhen Nsiway Tech"
+			(at 55.88 257.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "LCSC" "C219024"
+			(at 55.88 257.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
 		)
 		(pin "3"
@@ -7123,7 +7295,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "0603X105K500NT"
 			(at 91.44 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -7146,6 +7318,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 91.44 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH"
+			(at 91.44 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C157684"
 			(at 91.44 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -7238,7 +7432,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TCC0603X7R104K500CT"
 			(at 22.86 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7260,7 +7454,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+		(property "Tolerance" ""
 			(at 22.86 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7271,7 +7465,18 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Manufacturer" "CCTC"
+			(at 22.86 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282519"
 			(at 22.86 46.99 0)
 			(hide yes)
 			(show_name no)

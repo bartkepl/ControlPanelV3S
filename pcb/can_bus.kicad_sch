@@ -4548,18 +4548,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 186.69 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "RS-03K5600FT"
 			(at 186.69 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -4583,6 +4572,28 @@
 		)
 		(property "Tolerance" ""
 			(at 186.69 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH"
+			(at 186.69 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C136586"
+			(at 186.69 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4672,18 +4683,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 182.88 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "RC0603FR-07100KL"
 			(at 182.88 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -4707,6 +4707,39 @@
 		)
 		(property "Tolerance" ""
 			(at 182.88 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 182.88 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14675"
+			(at 182.88 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "RC0603FR-07100K"
+			(at 182.88 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5044,18 +5077,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 215.9 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "TCC0603COG4R7C500CT"
 			(at 215.9 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -5078,6 +5100,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 215.9 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "CCTC"
+			(at 215.9 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282506"
 			(at 215.9 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -5259,51 +5303,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" ""
-			(at 200.66 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer_Part_Number" "GAQY212GS"
-			(at 200.66 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TME Electronic Components Part Number" ""
-			(at 200.66 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TME Electronic Components Price/Stock" ""
-			(at 200.66 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "GAQY212GS"
 			(at 200.66 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -5327,6 +5327,28 @@
 		)
 		(property "Tolerance" ""
 			(at 200.66 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "SUPSiC"
+			(at 200.66 121.666 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7435107"
+			(at 200.66 121.666 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5424,18 +5446,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 144.78 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "CS3216X5R106K500NRI"
 			(at 144.78 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5457,7 +5468,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C15525"
+		(property "LCSC" "C513774"
 			(at 144.78 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5469,6 +5480,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 144.78 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "SAMWHA"
+			(at 144.78 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CS3216X5R106K500NR"
 			(at 144.78 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5573,55 +5606,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "Microchip"
-			(at 168.91 558.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "ATA6561-GAQW-N"
-			(at 168.91 658.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "579-ATA6561-GAQW-N"
-			(at 168.91 758.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATA6561-GAQW-N?qs=y6ZabgHbY%252BwGbm2JCZMHKQ%3D%3D"
-			(at 168.91 858.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "ATA6561-GAQW-N"
 			(at 144.78 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5652,6 +5637,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Manufacturer" "MICROCHIP TECHNOLOGY"
+			(at 168.91 258.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "TME" "ATA6561-GAQW-N"
+			(at 168.91 258.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser" "579-ATA6561-GAQW-N"
+			(at 168.91 258.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
 		)
 		(pin "7"
@@ -5832,7 +5853,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "0402CG180J500NT"
 			(at 63.5 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5855,6 +5876,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 63.5 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH"
+			(at 63.5 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1549"
 			(at 63.5 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5947,7 +5990,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "0402CG180J500NT"
 			(at 76.2 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5970,6 +6013,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 76.2 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH"
+			(at 76.2 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1549"
 			(at 76.2 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -6138,7 +6203,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "3225-20M-SR"
 			(at 69.85 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -6161,6 +6226,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 69.85 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "SR PASSIVES"
+			(at 69.85 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "3225-20M-SR"
 			(at 69.85 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -6339,7 +6426,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "MCP2518FDT-E/QBB"
 			(at 96.52 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6370,6 +6457,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Manufacturer" "MICROCHIP"
+			(at 97.79 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "LCSC" "C621395"
+			(at 97.79 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "TME" "MCP2518FDT-E/QBB"
+			(at 97.79 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(pin "8"
@@ -6571,18 +6694,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 189.23 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "TCC0603X7R104K500CT"
 			(at 189.23 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6604,7 +6716,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+		(property "Tolerance" ""
 			(at 189.23 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6615,7 +6727,18 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Manufacturer" "CCTC"
+			(at 189.23 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282519"
 			(at 189.23 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6708,7 +6831,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TCC0603X7R104K500CT"
 			(at 91.44 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -6730,7 +6853,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+		(property "Tolerance" ""
 			(at 91.44 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -6741,7 +6864,18 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Manufacturer" "CCTC"
+			(at 91.44 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282519"
 			(at 91.44 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -6912,18 +7046,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 233.68 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "RC0603FR-0759RL"
 			(at 233.68 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -6946,6 +7069,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 233.68 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 233.68 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C273801"
+			(at 233.68 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "RC0603FR-0759RL"
 			(at 233.68 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -7126,18 +7282,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 114.3 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "RC0603FR-07100KL"
 			(at 114.3 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -7161,6 +7306,39 @@
 		)
 		(property "Tolerance" ""
 			(at 114.3 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 114.3 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14675"
+			(at 114.3 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "RC0603FR-07100K"
+			(at 114.3 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7330,18 +7508,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 226.06 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "RC0603FR-0759RL"
 			(at 226.06 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -7364,6 +7531,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 226.06 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 226.06 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C273801"
+			(at 226.06 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "RC0603FR-0759RL"
 			(at 226.06 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -7456,18 +7656,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 156.21 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "TCC0603X7R104K500CT"
 			(at 156.21 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7489,7 +7678,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+		(property "Tolerance" ""
 			(at 156.21 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7500,7 +7689,18 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Manufacturer" "CCTC"
+			(at 156.21 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282519"
 			(at 156.21 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7671,18 +7871,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 204.47 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "TCC0603COG4R7C500CT"
 			(at 204.47 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -7705,6 +7894,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 204.47 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "CCTC"
+			(at 204.47 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282506"
 			(at 204.47 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -7963,51 +8174,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" ""
-			(at 200.66 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer_Part_Number" "GAQY212GS"
-			(at 200.66 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TME Electronic Components Part Number" ""
-			(at 200.66 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TME Electronic Components Price/Stock" ""
-			(at 200.66 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "GAQY212GS"
 			(at 200.66 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8031,6 +8198,28 @@
 		)
 		(property "Tolerance" ""
 			(at 200.66 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "SUPSiC"
+			(at 200.66 135.636 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7435107"
+			(at 200.66 135.636 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8131,18 +8320,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "BSS138"
-			(at 187.96 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "BSS138"
 			(at 187.96 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -8173,6 +8351,42 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Manufacturer" "Shikues"
+			(at 193.04 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "LCSC" "C112239"
+			(at 193.04 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "TME" "BSS138-ONS"
+			(at 193.04 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -8260,18 +8474,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 182.88 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "TCC0603X7R104K500CT"
 			(at 182.88 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8293,7 +8496,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+		(property "Tolerance" ""
 			(at 182.88 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8304,7 +8507,18 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Manufacturer" "CCTC"
+			(at 182.88 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282519"
 			(at 182.88 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8475,18 +8689,7 @@
 				)
 			)
 		)
-		(property "MF" ""
-			(at 217.17 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
+		(property "MPN" "C1608C0G1H472JT000N"
 			(at 217.17 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -8509,6 +8712,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 217.17 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 217.17 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C342963"
 			(at 217.17 120.65 0)
 			(hide yes)
 			(show_name no)

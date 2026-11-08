@@ -2999,17 +2999,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
-			(at 101.6 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 101.6 72.39 0)
 			(hide yes)
@@ -3022,6 +3011,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 101.6 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TCC0603X7R104K500CT"
+			(at 101.6 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "CCTC"
+			(at 101.6 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282519"
 			(at 101.6 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3117,17 +3139,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "USBLC6-2SC6"
-			(at 118.11 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 118.11 96.52 0)
 			(hide yes)
@@ -3148,6 +3159,54 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "USBLC6-2SC6"
+			(at 119.38 104.775 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "ST"
+			(at 119.38 104.775 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "LCSC" "C7519"
+			(at 119.38 104.775 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "TME" "USBLC6-2SC6"
+			(at 119.38 104.775 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(pin "2"
@@ -3244,17 +3303,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "WLBD1608HCU101TL"
-			(at 143.51 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 143.51 63.5 0)
 			(hide yes)
@@ -3267,6 +3315,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 143.51 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MH1608-101Y"
+			(at 143.51 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "BOURNS"
+			(at 143.51 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "MH1608-101Y"
 			(at 143.51 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -3380,6 +3461,39 @@
 				)
 			)
 		)
+		(property "MPN" "C1608C0G1H682JT000N"
+			(at 140.97 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 140.97 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C342851"
+			(at 140.97 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9214cf0a-ed8c-425f-aa6c-93c2e814ec40")
 		)
@@ -3462,17 +3576,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CRCW060349R9FKTABC "
-			(at 138.43 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 138.43 76.2 0)
 			(hide yes)
@@ -3485,6 +3588,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 138.43 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SCR0603F49R9"
+			(at 138.43 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "VO"
+			(at 138.43 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C3016250"
 			(at 138.43 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3577,17 +3713,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "1206B102K202"
-			(at 181.61 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 181.61 121.92 0)
 			(hide yes)
@@ -3600,6 +3725,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 181.61 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C1206X102K202T"
+			(at 181.61 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "IHHEC"
+			(at 181.61 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106012"
 			(at 181.61 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -3770,17 +3928,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "0603SAJ0750T5E "
-			(at 189.23 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 189.23 109.22 0)
 			(hide yes)
@@ -3793,6 +3940,50 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 189.23 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF750JT5E"
+			(at 189.23 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 189.23 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C4275"
+			(at 189.23 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "0603WAF750JT5E"
 			(at 189.23 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -3885,17 +4076,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "1-2176339-5 "
-			(at 205.74 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 205.74 109.22 0)
 			(hide yes)
@@ -3908,6 +4088,50 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 205.74 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1500T5E"
+			(at 205.74 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 205.74 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22808"
+			(at 205.74 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "0603WAF1500T5E"
 			(at 205.74 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -4000,17 +4224,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0603JR-0782RL "
-			(at 132.08 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 132.08 105.41 0)
 			(hide yes)
@@ -4023,6 +4236,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 132.08 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "FRC0603F82R0TS"
+			(at 132.08 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FOJAN"
+			(at 132.08 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2907073"
 			(at 132.08 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4118,17 +4364,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "USBLC6-2SC6"
-			(at 109.22 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 109.22 83.82 0)
 			(hide yes)
@@ -4149,6 +4384,54 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "USBLC6-2SC6"
+			(at 110.49 92.075 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "ST"
+			(at 110.49 92.075 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "LCSC" "C7519"
+			(at 110.49 92.075 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "TME" "USBLC6-2SC6"
+			(at 110.49 92.075 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(pin "2"
@@ -4245,17 +4528,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM1885C1H103JA01J "
-			(at 148.59 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 148.59 115.57 0)
 			(hide yes)
@@ -4268,6 +4540,50 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 148.59 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM1885C1H103JA01J"
+			(at 148.59 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "muRata"
+			(at 148.59 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2215227"
+			(at 148.59 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "GRM1885C1H103JA01J"
 			(at 148.59 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4360,17 +4676,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "1-2176339-5 "
-			(at 196.85 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 196.85 109.22 0)
 			(hide yes)
@@ -4383,6 +4688,50 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 196.85 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1500T5E"
+			(at 196.85 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 196.85 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22808"
+			(at 196.85 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "0603WAF1500T5E"
 			(at 196.85 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -4475,17 +4824,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "0603SAJ0750T5E "
-			(at 181.61 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 181.61 109.22 0)
 			(hide yes)
@@ -4498,6 +4836,50 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 181.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF750JT5E"
+			(at 181.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 181.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C4275"
+			(at 181.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "0603WAF750JT5E"
 			(at 181.61 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -4602,6 +4984,50 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 147.32 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF100JT5E"
+			(at 147.32 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 147.32 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22859"
+			(at 147.32 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "0603WAF100JT5E"
 			(at 147.32 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -4772,17 +5198,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0603JR-0782RL "
-			(at 124.46 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 124.46 105.41 0)
 			(hide yes)
@@ -4795,6 +5210,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 124.46 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "FRC0603F82R0TS"
+			(at 124.46 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FOJAN"
+			(at 124.46 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2907073"
 			(at 124.46 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4887,17 +5335,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
-			(at 90.17 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 90.17 72.39 0)
 			(hide yes)
@@ -4910,6 +5347,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 90.17 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TCC0603X7R104K500CT"
+			(at 90.17 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "CCTC"
+			(at 90.17 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C282519"
 			(at 90.17 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5023,6 +5493,39 @@
 				)
 			)
 		)
+		(property "MPN" "C1608C0G1H682JT000N"
+			(at 140.97 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 140.97 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C342851"
+			(at 140.97 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c119876e-32f0-4f4c-a5cd-31dc8310cb35")
 		)
@@ -5105,17 +5608,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CRCW060349R9FKTABC "
-			(at 129.54 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 129.54 76.2 0)
 			(hide yes)
@@ -5128,6 +5620,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 129.54 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SCR0603F49R9"
+			(at 129.54 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "VO"
+			(at 129.54 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C3016250"
 			(at 129.54 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -5310,54 +5835,6 @@
 				(justify left top)
 			)
 		)
-		(property "TME Electronic Components Part Number" ""
-			(at 173.99 577.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "TME Electronic Components Price/Stock" ""
-			(at 173.99 677.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "YAGEO"
-			(at 173.99 777.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "H1102NL"
-			(at 173.99 877.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "PARTNO" ""
 			(at 149.86 82.55 0)
 			(hide yes)
@@ -5378,6 +5855,54 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "H1102NLT"
+			(at 173.99 277.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer" "DEXU Electronics"
+			(at 173.99 277.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "LCSC" "C20623173"
+			(at 173.99 277.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "TME" "H1102NLT-YAG-0"
+			(at 173.99 277.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
 		)
 		(pin "16"
@@ -5581,17 +6106,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM1885C1H103JA01J "
-			(at 142.24 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 142.24 115.57 0)
 			(hide yes)
@@ -5604,6 +6118,50 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 142.24 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM1885C1H103JA01J"
+			(at 142.24 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "muRata"
+			(at 142.24 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2215227"
+			(at 142.24 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "GRM1885C1H103JA01J"
 			(at 142.24 115.57 0)
 			(hide yes)
 			(show_name no)

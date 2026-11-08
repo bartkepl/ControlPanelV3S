@@ -6361,7 +6361,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10B224KB8NNNC"
 			(at 189.23 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6384,6 +6384,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 189.23 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 189.23 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C64705"
+			(at 189.23 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10B224KB8NNNC"
 			(at 189.23 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6552,6 +6585,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 137.16 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "AXP209"
+			(at 137.16 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "X-Powers Tech"
+			(at 137.16 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2997895"
 			(at 137.16 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -6807,7 +6873,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CC0603JRNPO9BN102"
 			(at 86.36 77.47 90)
 			(hide yes)
 			(show_name no)
@@ -6831,6 +6897,39 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 86.36 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106246"
+			(at 86.36 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CC0603JRNPO9BN102"
+			(at 86.36 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7265,7 +7364,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MS621FE-FL11E"
+		(property "Tolerance" ""
 			(at 64.77 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -7276,8 +7375,8 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
-			(at 64.77 115.57 0)
+		(property "MPN" "MS621FE-FL11E"
+			(at 64.77 114.046 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7536,7 +7635,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CC0603JRNPO9BN102"
 			(at 86.36 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -7560,6 +7659,39 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 86.36 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106246"
+			(at 86.36 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CC0603JRNPO9BN102"
+			(at 86.36 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7805,7 +7937,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 86.36 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -7829,6 +7961,39 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 72.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 86.36 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96446"
+			(at 86.36 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A106MA8NRNC-0"
+			(at 86.36 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7919,7 +8084,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5251182"
+		(property "LCSC" "C295747"
 			(at 196.85 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7930,7 +8095,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "S2B-PH-SM4-TB (LF)(SN)"
 			(at 196.85 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7953,6 +8118,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 196.85 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "JST"
+			(at 196.85 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "S2B-PH-SM4-TB"
 			(at 196.85 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -8290,7 +8477,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "0603X105K500NT"
 			(at 171.45 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8313,6 +8500,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 171.45 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH"
+			(at 171.45 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C157684"
 			(at 171.45 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8401,7 +8610,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A475KL8NRNC"
 			(at 86.36 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -8425,6 +8634,39 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 86.36 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C307467"
+			(at 86.36 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A475KL8NRNC-0"
+			(at 86.36 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8512,7 +8754,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A475KL8NRNC"
 			(at 86.36 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -8536,6 +8778,39 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 86.36 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C307467"
+			(at 86.36 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A475KL8NRNC-0"
+			(at 86.36 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8623,7 +8898,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "0603X105K500NT"
 			(at 86.36 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -8647,6 +8922,28 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH"
+			(at 86.36 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C157684"
+			(at 86.36 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8736,7 +9033,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 180.34 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8759,6 +9056,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 180.34 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 180.34 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96446"
+			(at 180.34 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A106MA8NRNC-0"
 			(at 180.34 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8847,7 +9177,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 176.53 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -8871,6 +9201,39 @@
 		)
 		(property "Tolerance" ""
 			(at 176.53 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 176.53 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96446"
+			(at 176.53 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A106MA8NRNC-0"
+			(at 176.53 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8959,7 +9322,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "0603X105K500NT"
 			(at 162.56 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -8983,6 +9346,28 @@
 		)
 		(property "Tolerance" ""
 			(at 162.56 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH"
+			(at 162.56 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C157684"
+			(at 162.56 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9330,6 +9715,39 @@
 				)
 			)
 		)
+		(property "MPN" "STN061050BL40"
+			(at 196.85 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 196.85 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 196.85 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "454b24d8-058a-45b3-8891-eeb01598a3e3")
 		)
@@ -9442,6 +9860,28 @@
 				)
 			)
 		)
+		(property "Manufacturer" "TAIYO YUDEN"
+			(at 102.87 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "NRS5040T4R7NMGK"
+			(at 102.87 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b1e3abf4-9dd7-4642-8d9c-425754aeef5c")
 		)
@@ -9521,7 +9961,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RMS06FT1001"
 			(at 66.04 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -9545,6 +9985,28 @@
 		)
 		(property "Tolerance" ""
 			(at 66.04 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TA-I Tech"
+			(at 66.04 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C209012"
+			(at 66.04 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9788,7 +10250,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RTT034702FTP"
 			(at 172.72 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -9812,6 +10274,28 @@
 		)
 		(property "Tolerance" ""
 			(at 172.72 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "RALEC"
+			(at 172.72 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C103657"
+			(at 172.72 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9916,6 +10400,39 @@
 		)
 		(property "Tolerance" ""
 			(at 185.42 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STN061050BL40"
+			(at 185.42 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 185.42 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 185.42 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10161,7 +10678,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 86.36 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -10185,6 +10702,39 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 86.36 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96446"
+			(at 86.36 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A106MA8NRNC-0"
+			(at 86.36 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10525,7 +11075,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "NCP18XV103J03RB"
 			(at 184.15 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -10548,6 +11098,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 184.15 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "MURATA"
+			(at 184.15 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "NCP18XV103J03RB"
+			(at 184.15 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt_MPN" "NTCLE100E3103JB0 (Vishay, THT na przewodach do J4; TME 640-10K)"
 			(at 184.15 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -10715,7 +11298,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "0603X105K500NT"
 			(at 71.12 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -10738,6 +11321,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 71.12 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH"
+			(at 71.12 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C157684"
 			(at 71.12 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -11107,6 +11712,28 @@
 				)
 			)
 		)
+		(property "Manufacturer" "TAIYO YUDEN"
+			(at 160.02 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "NRS5040T4R7NMGK"
+			(at 160.02 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "96bc21d5-2606-4956-8950-952c0e8b96a2")
 		)
@@ -11454,7 +12081,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A475KL8NRNC"
 			(at 86.36 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -11478,6 +12105,39 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 86.36 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C307467"
+			(at 86.36 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A475KL8NRNC-0"
+			(at 86.36 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11643,7 +12303,7 @@
 				)
 			)
 		)
-		(property "MPN" "NRS4018T2R2MDGJ "
+		(property "MPN" "NRS4018T2R2MDGJ"
 			(at 102.87 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -11667,6 +12327,28 @@
 		)
 		(property "Tolerance" ""
 			(at 102.87 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TAIYO YUDEN"
+			(at 102.87 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "NRS4018T2R2MDGJ"
+			(at 102.87 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11771,6 +12453,39 @@
 		)
 		(property "Tolerance" ""
 			(at 58.42 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STN061050BL40"
+			(at 58.42 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 58.42 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 58.42 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12018,7 +12733,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CR0603FA3303G"
 			(at 82.55 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -12041,6 +12756,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 82.55 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "LIZ"
+			(at 82.55 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C100970"
 			(at 82.55 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -12133,7 +12870,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RMS06FT1002"
 			(at 82.55 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -12156,6 +12893,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 82.55 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TA-I Tech"
+			(at 82.55 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C209013"
 			(at 82.55 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -12324,7 +13083,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 165.1 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -12348,6 +13107,39 @@
 		)
 		(property "Tolerance" ""
 			(at 165.1 74.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 165.1 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96446"
+			(at 165.1 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A106MA8NRNC-0"
+			(at 165.1 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12437,7 +13229,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 86.36 106.68 90)
 			(hide yes)
 			(show_name no)
@@ -12461,6 +13253,39 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 86.36 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96446"
+			(at 86.36 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A106MA8NRNC-0"
+			(at 86.36 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12717,7 +13542,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "0603X105K500NT"
 			(at 86.36 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -12741,6 +13566,28 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH"
+			(at 86.36 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C157684"
+			(at 86.36 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12830,7 +13677,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 165.1 80.01 90)
 			(hide yes)
 			(show_name no)
@@ -12854,6 +13701,39 @@
 		)
 		(property "Tolerance" ""
 			(at 165.1 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 165.1 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96446"
+			(at 165.1 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A106MA8NRNC-0"
+			(at 165.1 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13017,7 +13897,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C245439"
+		(property "LCSC" "C104923"
 			(at 165.1 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -13028,7 +13908,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RTT06R030FTP"
 			(at 165.1 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -13051,6 +13931,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 165.1 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "RALEC"
 			(at 165.1 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -13141,7 +14032,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10B224KB8NNNC"
 			(at 165.1 62.23 90)
 			(hide yes)
 			(show_name no)
@@ -13165,6 +14056,39 @@
 		)
 		(property "Tolerance" ""
 			(at 165.1 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 165.1 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C64705"
+			(at 165.1 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10B224KB8NNNC"
+			(at 165.1 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13254,7 +14178,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 182.88 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -13277,6 +14201,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 182.88 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 182.88 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96446"
+			(at 182.88 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A106MA8NRNC-0"
 			(at 182.88 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -13518,7 +14475,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C15525"
+		(property "LCSC" "C513774"
 			(at 92.71 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -13529,7 +14486,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CS3216X5R106K500NRI"
 			(at 92.71 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -13553,6 +14510,28 @@
 		)
 		(property "Tolerance" ""
 			(at 92.71 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "SAMWHA"
+			(at 92.71 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CS3216X5R106K500NR"
+			(at 92.71 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13890,7 +14869,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CR0603F200KP05Z"
 			(at 172.72 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -13913,6 +14892,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 172.72 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EVER OHMS"
+			(at 172.72 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C881057"
 			(at 172.72 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -14155,7 +15156,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 86.36 91.44 90)
 			(hide yes)
 			(show_name no)
@@ -14179,6 +15180,39 @@
 		)
 		(property "Tolerance" ""
 			(at 86.36 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 86.36 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96446"
+			(at 86.36 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A106MA8NRNC-0"
+			(at 86.36 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14267,7 +15301,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RMS06FT1001"
 			(at 90.17 130.81 90)
 			(hide yes)
 			(show_name no)
@@ -14291,6 +15325,28 @@
 		)
 		(property "Tolerance" ""
 			(at 90.17 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TA-I Tech"
+			(at 90.17 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C209012"
+			(at 90.17 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14380,7 +15436,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 165.1 85.09 90)
 			(hide yes)
 			(show_name no)
@@ -14404,6 +15460,39 @@
 		)
 		(property "Tolerance" ""
 			(at 165.1 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 165.1 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96446"
+			(at 165.1 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CL10A106MA8NRNC-0"
+			(at 165.1 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

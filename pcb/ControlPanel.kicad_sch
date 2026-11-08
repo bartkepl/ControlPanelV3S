@@ -2489,6 +2489,39 @@
 				)
 			)
 		)
+		(property "MPN" "STN061050BL40"
+			(at 46.99 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 46.99 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 46.99 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8d4b87a5-4eb2-4aab-97db-afbe9cab373e")
 		)
@@ -3522,6 +3555,39 @@
 				)
 			)
 		)
+		(property "MPN" "STN061050BL40"
+			(at 39.37 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 39.37 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 39.37 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "34acf712-e7a9-4de4-a5a2-b8b8c0d40f73")
 		)
@@ -3711,6 +3777,39 @@
 		)
 		(property "Tolerance" ""
 			(at 35.56 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STN061050BL40"
+			(at 35.56 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 35.56 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 35.56 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3916,6 +4015,39 @@
 		)
 		(property "Tolerance" ""
 			(at 50.8 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STN061050BL40"
+			(at 50.8 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 50.8 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 50.8 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

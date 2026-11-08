@@ -6116,6 +6116,39 @@
 				)
 			)
 		)
+		(property "MPN" "STN061050BL40"
+			(at 111.76 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 111.76 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 111.76 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "89b96f00-3fda-409b-85a8-1520d1dff6df")
 		)
@@ -6216,6 +6249,39 @@
 		)
 		(property "Tolerance" ""
 			(at 101.6 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STN061050BL40"
+			(at 101.6 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 101.6 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 101.6 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6334,6 +6400,50 @@
 				)
 			)
 		)
+		(property "MPN" "CS3216X5R106K500NRI"
+			(at 181.61 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "SAMWHA"
+			(at 181.61 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C513774"
+			(at 181.61 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CS3216X5R106K500NR"
+			(at 181.61 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "357821e9-8494-4359-9c49-b434c3bf6e46")
 		)
@@ -6438,17 +6548,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "WLBD1608HCU101TL"
-			(at 114.3 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 114.3 118.11 0)
 			(hide yes)
@@ -6461,6 +6560,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 114.3 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MH1608-101Y"
+			(at 114.3 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "BOURNS"
+			(at 114.3 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "MH1608-101Y"
 			(at 114.3 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6571,6 +6703,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 120.65 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603X105K500NT"
+			(at 120.65 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH"
+			(at 120.65 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C157684"
 			(at 120.65 127 0)
 			(hide yes)
 			(show_name no)
@@ -6902,17 +7067,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MFBM1V2012-601-R"
-			(at 120.65 39.37 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 120.65 39.37 90)
 			(hide yes)
@@ -6926,6 +7080,50 @@
 		)
 		(property "Tolerance" ""
 			(at 120.65 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MFBM1V2012-601-R"
+			(at 120.65 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Eaton Electronics"
+			(at 120.65 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "MFBM1V2012-601-R"
+			(at 120.65 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" "704-MFBM1V2012-601-R"
+			(at 120.65 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7117,6 +7315,39 @@
 				)
 			)
 		)
+		(property "MPN" "S5B-PH-K-S (LF)(SN)"
+			(at 218.44 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "JST"
+			(at 218.44 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "S5B-PH-K-S"
+			(at 218.44 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "de909453-e319-48d1-ba5c-94c7eed3961a")
 		)
@@ -7206,17 +7437,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MFBM1V2012-601-R"
-			(at 120.65 57.15 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 120.65 57.15 90)
 			(hide yes)
@@ -7230,6 +7450,50 @@
 		)
 		(property "Tolerance" ""
 			(at 120.65 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MFBM1V2012-601-R"
+			(at 120.65 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Eaton Electronics"
+			(at 120.65 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "MFBM1V2012-601-R"
+			(at 120.65 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" "704-MFBM1V2012-601-R"
+			(at 120.65 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7423,6 +7687,39 @@
 				)
 			)
 		)
+		(property "MPN" "STN061050BL40"
+			(at 96.52 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 96.52 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 96.52 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "71634404-f047-45d4-8aff-196d07d36ba2")
 		)
@@ -7600,78 +7897,6 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "TDK"
-			(at 149.86 -421.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "ACT45B-510-2P-TL003"
-			(at 149.86 -521.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "810-ACT45B5102PTL003"
-			(at 149.86 -621.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/ACT45B-510-2P-TL003?qs=U1cgCdF9Le9LCroNYLqljw%3D%3D"
-			(at 149.86 -721.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Part Number" "ACT45B-510-2P-TL003"
-			(at 149.86 -821.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/act45b-510-2p-tl003/tdk.html?utm_currency=USD&region=nac"
-			(at 149.86 -921.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "PARTNO" ""
 			(at 133.35 73.66 0)
 			(hide yes)
@@ -7692,6 +7917,66 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "ACT45B-510-2P-TL003"
+			(at 149.86 -121.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 149.86 -121.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "LCSC" "C76584"
+			(at 149.86 -121.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "TME" "ACT45B-510-2P-TL00"
+			(at 149.86 -121.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser" "810-ACT45B5102PTL003"
+			(at 149.86 -121.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
 		)
 		(pin "3"
@@ -7809,6 +8094,39 @@
 				)
 			)
 		)
+		(property "MPN" "STN061050BL40"
+			(at 91.44 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 91.44 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 91.44 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4fd82ff9-59a7-4913-81f2-0505a42f7f39")
 		)
@@ -7896,17 +8214,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "Leiditech 3R090-5S"
-			(at 87.63 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 87.63 48.26 0)
 			(hide yes)
@@ -7920,6 +8227,39 @@
 		)
 		(property "Tolerance" ""
 			(at 87.63 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "3R090-5S"
+			(at 87.63 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Leiditech"
+			(at 87.63 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C782868"
+			(at 87.63 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8012,17 +8352,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "PMEG6030EP"
-			(at 146.05 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 146.05 30.48 0)
 			(hide yes)
@@ -8035,6 +8364,50 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 146.05 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "PMEG6030EP,115"
+			(at 146.05 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Nexperia"
+			(at 146.05 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "PMEG6030EP.115"
+			(at 146.05 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" "771-PMEG6030EP-115"
 			(at 146.05 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -8283,17 +8656,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SMBJ33CA"
-			(at 109.22 48.26 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 109.22 48.26 90)
 			(hide yes)
@@ -8307,6 +8669,39 @@
 		)
 		(property "Tolerance" ""
 			(at 109.22 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SMBJ33CA"
+			(at 109.22 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "LITTELFUSE"
+			(at 109.22 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "SMBJ33CA-LF"
+			(at 109.22 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8411,6 +8806,39 @@
 		)
 		(property "Tolerance" ""
 			(at 66.04 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STN061050BL40"
+			(at 66.04 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 66.04 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 66.04 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8529,6 +8957,39 @@
 				)
 			)
 		)
+		(property "MPN" "STN061050BL40"
+			(at 71.12 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 71.12 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 71.12 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d98982ce-ba4d-4e09-a5fb-7d8b11b739c1")
 		)
@@ -8627,6 +9088,39 @@
 		)
 		(property "Tolerance" ""
 			(at 166.37 63.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RCA120610R0FKEA"
+			(at 166.37 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "VISHAY"
+			(at 166.37 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "RCA120610R0FKEA"
+			(at 166.37 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8745,6 +9239,39 @@
 				)
 			)
 		)
+		(property "MPN" "STN061050BL40"
+			(at 86.36 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 86.36 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 86.36 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3a85848a-fa42-471c-9006-bbbd15a146df")
 		)
@@ -8842,6 +9369,39 @@
 		)
 		(property "Tolerance" ""
 			(at 166.37 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RCA120610R0FKEA"
+			(at 166.37 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "VISHAY"
+			(at 166.37 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "RCA120610R0FKEA"
+			(at 166.37 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8960,17 +9520,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SMBJ36A-13-F"
-			(at 134.62 48.26 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 134.62 48.26 90)
 			(hide yes)
@@ -8984,6 +9533,39 @@
 		)
 		(property "Tolerance" ""
 			(at 134.62 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SMBJ36A-13-F"
+			(at 134.62 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "DIODES INCORPORATED"
+			(at 134.62 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "SMBJ36A-13-F"
+			(at 134.62 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9088,6 +9670,39 @@
 		)
 		(property "Tolerance" ""
 			(at 76.2 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STN061050BL40"
+			(at 76.2 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 76.2 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 76.2 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9205,6 +9820,50 @@
 				)
 			)
 		)
+		(property "MPN" "CC0603JRNPO9BN102"
+			(at 199.39 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 199.39 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106246"
+			(at 199.39 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CC0603JRNPO9BN102"
+			(at 199.39 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c7199b2a-586f-4cc8-93d8-06ba0e466e78")
 		)
@@ -9300,6 +9959,39 @@
 		)
 		(property "Tolerance" ""
 			(at 106.68 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STN061050BL40"
+			(at 106.68 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 106.68 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 106.68 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9418,6 +10110,39 @@
 				)
 			)
 		)
+		(property "MPN" "STN061050BL40"
+			(at 116.84 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 116.84 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 116.84 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4f7b84e9-67e0-41d2-b809-bf946e70b3b5")
 		)
@@ -9505,17 +10230,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "Leiditech 3R090-5S"
-			(at 87.63 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 87.63 72.39 0)
 			(hide yes)
@@ -9529,6 +10243,39 @@
 		)
 		(property "Tolerance" ""
 			(at 87.63 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "3R090-5S"
+			(at 87.63 72.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Leiditech"
+			(at 87.63 72.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C782868"
+			(at 87.63 72.39 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9635,6 +10382,39 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 129.54 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "S12B-PH-K-S(LF)(SN)"
+			(at 129.54 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "JST"
+			(at 129.54 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C157943"
 			(at 129.54 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -9784,6 +10564,39 @@
 				)
 			)
 		)
+		(property "MPN" "STN061050BL40"
+			(at 81.28 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "EATON ELECTRONICS"
+			(at 81.28 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "STN061050BL40-EA"
+			(at 81.28 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d695f403-c56d-47fe-accc-5427a0594c0f")
 		)
@@ -9871,17 +10684,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CDSOT23-T24CAN"
-			(at 115.57 72.39 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 115.57 72.39 90)
 			(hide yes)
@@ -9895,6 +10697,50 @@
 		)
 		(property "Tolerance" ""
 			(at 115.57 72.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CDSOT23-T24CAN"
+			(at 115.57 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Bourns"
+			(at 115.57 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CDSOT23-T24CAN"
+			(at 115.57 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" "652-CDSOT23-T24CAN"
+			(at 115.57 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9987,17 +10833,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "PMEG6030EP"
-			(at 146.05 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 146.05 39.37 0)
 			(hide yes)
@@ -10010,6 +10845,50 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 146.05 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "PMEG6030EP,115"
+			(at 146.05 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Nexperia"
+			(at 146.05 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "PMEG6030EP.115"
+			(at 146.05 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" "771-PMEG6030EP-115"
 			(at 146.05 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10202,17 +11081,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SMBJ36A-13-F"
-			(at 158.75 48.26 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 158.75 48.26 90)
 			(hide yes)
@@ -10226,6 +11094,39 @@
 		)
 		(property "Tolerance" ""
 			(at 158.75 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SMBJ36A-13-F"
+			(at 158.75 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "DIODES INCORPORATED"
+			(at 158.75 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "SMBJ36A-13-F"
+			(at 158.75 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10419,6 +11320,39 @@
 				)
 			)
 		)
+		(property "MPN" "S7B-PH-K-S (LF)(SN)"
+			(at 43.18 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "JST"
+			(at 43.18 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "S7B-PH-K-S"
+			(at 43.18 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9f6f3016-3f7a-42d1-8fd4-b452cdf9dad6")
 		)
@@ -10515,17 +11449,6 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SD200-08"
-			(at 96.52 39.37 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "PARTNO" ""
 			(at 96.52 39.37 90)
 			(hide yes)
@@ -10539,6 +11462,39 @@
 		)
 		(property "Tolerance" ""
 			(at 96.52 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SD200-08"
+			(at 96.52 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "ECE"
+			(at 96.52 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "SD200-08"
+			(at 96.52 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
