@@ -941,6 +941,30 @@
           "label": "Tolerance",
           "name": "Tolerance",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser",
+          "name": "Mouser",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "TME",
+          "name": "TME",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Alt_MPN",
+          "name": "Alt_MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
         }
       ],
       "filter_string": "",
