@@ -5116,7 +5116,7 @@
 				(pins "1" "2" "3" "7" "6" "5" "4")
 			)
 		)
-		(attr smd dnp)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center -1.35 -1.325)
